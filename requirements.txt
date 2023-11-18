@@ -5,7 +5,7 @@ tensorflow-cpu
 keras
 pydantic
 python-multipart
-Pillow==8.3.2
-h5py==2.10.0
+Pillow
+h5py
 libhdf5-dev
 
