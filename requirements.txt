@@ -7,4 +7,5 @@ pydantic
 python-multipart
 Pillow==8.3.2
 h5py==2.10.0
+libhdf5-dev
 
